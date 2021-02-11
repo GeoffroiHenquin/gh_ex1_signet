@@ -1,0 +1,50 @@
+[
+    {
+        "id":"sg0001",
+        "titre":"Cadriciels",
+        "couleur":"#7632b6",
+        "date":"8 fevrier 2021"
+    },
+    {
+        "id":"sg0002",
+        "titre":"React",
+        "couleur":"#00c1d4",
+        "date":"24 decembre 2020"
+    },
+    {
+        "id":"sg0003",
+        "titre":"Plateformes Nuagiques",
+        "couleur":"#52c624",
+        "date":"12 janvier 2021"
+    },
+    {
+        "id":"sg0004",
+        "titre":"IDEs (nuagiques)",
+        "couleur":"#008ae4",
+        "date":"5 mars 2020"
+    },
+    {
+        "id":"sg0005",
+        "titre":"Outils JavaScript",
+        "couleur":"#d3001e",
+        "date":"4 decembre 2020"
+    },
+    {
+        "id":"sg0006",
+        "titre":"JavaScript",
+        "couleur":"#000000",
+        "date":"9 fevrier 2021"
+    },
+    {
+        "id":"sg0007",
+        "titre":"Firebase",
+        "couleur":"#f8ad0d",
+        "date":"4 fevrier 2021"
+    },
+    {
+        "id":"sg0008",
+        "titre":"GraphQL",
+        "couleur":"#ff0081",
+        "date":"24 janvier 2021"
+    }
+]
